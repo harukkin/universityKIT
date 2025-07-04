@@ -12,13 +12,13 @@ xx/*
 #include <map>
 
 // ===== 設定値 (ここを変更してください) =====
-#define WIFI_SSID "Lab207-5G-WPA3"
-#define WIFI_PASSWORD "nsv8t73r5t5dx"
+#define WIFI_SSID "＊＊＊＊＊＊＊＊＊＊＊＊＊＊"
+#define WIFI_PASSWORD "＊＊＊＊＊＊＊＊＊"
 
 // Firebase設定（Realtime Database）
 #define FIREBASE_PROJECT_ID "twelitefirm"
 // 非公開キー
-#define FIREBASE_DATABASE_SECRET "ny16yJMAY15G1XOxN8iW2uHXysxl5Eukc2iKrg4x" 
+#define FIREBASE_DATABASE_SECRET "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊" 
 
 // ===== 8個子機システム設定 =====
 #define MAX_DEVICES 8
